@@ -1,4 +1,4 @@
-![It's ME !](itsme)
+![It's ME !](itsme.png)
 - 👋 Hi, I’m @MrWei95
 - 👀 I’m interested in user interaction and microcontrollers.
 - 🌱 I’m currently learning Loongson 99PAI
